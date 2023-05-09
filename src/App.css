@@ -1,0 +1,21 @@
+.full-width {
+  width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.mobilewrapper {
+  position: relative;
+}
+
+.float {
+  position: absolute;
+  overflow: scroll;
+  top: 61px;
+  left: 136px;
+  background-color: grey;
+  height: 323px;
+  width: 228px;
+}
